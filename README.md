@@ -18,8 +18,7 @@ There are three projects in the solution:
 
 ## Installation
 - Download the ```Calmo API Solution.zip``` file from ```/dist```
-- **Move** (don't extract it) it to your Visual Studio template folder
--- Windows 10/VS2017: ```C:\Users\[YourUsername]\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#```
+- **Move** (don't extract it) it to your Visual Studio template folder (Windows 10/VS2017: ```C:\Users\[YourUsername]\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#```)
 - Open Visual Studio
 - Select ```File > New > C# > Calmo API Solution```
 - Select ```Tools > NuGet Package Manager > Package Manager Console ```
